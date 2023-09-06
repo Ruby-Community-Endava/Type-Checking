@@ -1,0 +1,5 @@
+# frozen_string_literal: true
+
+# Comments helper type
+module CommentsHelper
+end

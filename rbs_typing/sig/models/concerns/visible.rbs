@@ -1,0 +1,15 @@
+module Visible
+  extend ActiveSupport::Concern
+
+  VALID_STATUSES: ::Array["public" | "private" | "archived"]
+  
+  # Hacky stuff
+  def self.validates: (Symbol, **untyped) -> void
+  def where: (status: String) -> ActiveRecord::Relation
+  # End hacky stuff
+
+  def public_count: () -> Integer
+
+  def status: () -> String
+  def archived? : () -> bool
+end

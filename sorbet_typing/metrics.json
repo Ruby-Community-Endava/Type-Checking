@@ -1,0 +1,140 @@
+{
+ "repo": "none",
+ "sha": "none",
+ "status": "Success",
+ "branch": "none",
+ "timestamp": "1693675348",
+ "uuid": "0xeba462f2e4b6cd3e-0x11e890eb-0x44c8-0x846c-0x6dc243cab6f7d970x41a7",
+ "metrics": [
+  {
+   "name": "ruby_typer.unknown..error.p25",
+   "value": 7017
+  },
+  {
+   "name": "ruby_typer.unknown..error.p50",
+   "value": 7003
+  },
+  {
+   "name": "ruby_typer.unknown..error.p75",
+   "value": 7043
+  },
+  {
+   "name": "ruby_typer.unknown..error.p90",
+   "value": 7043
+  },
+  {
+   "name": "ruby_typer.unknown..error.min",
+   "value": 7003
+  },
+  {
+   "name": "ruby_typer.unknown..error.max",
+   "value": 7043
+  },
+  {
+   "name": "ruby_typer.unknown..error.total",
+   "value": 25
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.bytes",
+   "value": 10408907
+  },
+  {
+   "name": "ruby_typer.unknown..run.utilization.system_time.us",
+   "value": 92464
+  },
+  {
+   "name": "ruby_typer.unknown..run.utilization.major_faults",
+   "value": 847
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.sends.typed",
+   "value": 23
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.files.sigil.true",
+   "value": 87
+  },
+  {
+   "name": "ruby_typer.unknown..types.sig.count",
+   "value": 1707
+  },
+  {
+   "name": "ruby_typer.unknown..run.utilization.user_time.us",
+   "value": 430378
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.sends.total",
+   "value": 81
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.files.sigil.strict",
+   "value": 4
+  },
+  {
+   "name": "ruby_typer.unknown..run.utilization.oublock"
+  },
+  {
+   "name": "ruby_typer.unknown..run.utilization.minor_faults",
+   "value": 32021
+  },
+  {
+   "name": "ruby_typer.unknown..run.utilization.context_switch.involuntary",
+   "value": 3752
+  },
+  {
+   "name": "ruby_typer.unknown..release.build_timestamp",
+   "value": 1693594786
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.methods.total",
+   "value": 49126
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.modules.total",
+   "value": 1569
+  },
+  {
+   "name": "ruby_typer.unknown..run.utilization.max_rss",
+   "value": 130244608
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.files.sigil.false",
+   "value": 43
+  },
+  {
+   "name": "ruby_typer.unknown..release.build_scm_commit_count",
+   "value": 11000
+  },
+  {
+   "name": "ruby_typer.unknown..run.utilization.context_switch.voluntary",
+   "value": 227
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.methods.typechecked",
+   "value": 20
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.foundmethods.total",
+   "value": 44621
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.files",
+   "value": 134
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.classes.total",
+   "value": 10490
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.untyped.usages",
+   "value": 23
+  },
+  {
+   "name": "ruby_typer.unknown..run.utilization.inblock"
+  },
+  {
+   "name": "ruby_typer.unknown..types.input.singleton_classes.total",
+   "value": 6614
+  }
+ ]
+}

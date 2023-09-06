@@ -1,0 +1,4 @@
+class CommentsController < ApplicationController
+  def create : () -> String
+  def comment_params: () -> Hash[Symbol, untyped]
+end
