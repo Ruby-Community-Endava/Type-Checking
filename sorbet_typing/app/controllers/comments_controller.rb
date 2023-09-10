@@ -26,7 +26,7 @@ class CommentsController < ApplicationController
 
     @comment = T.let(@article.comments.find(params[:id]), T.nilable(Comment))
     @comment&.destroy
-    
+
     redirect_to article_path(@article), status: :see_other
   end
 

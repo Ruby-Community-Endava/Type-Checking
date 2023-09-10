@@ -69,3 +69,5 @@ yarn-debug.log*
 /public/uploads
 
 .gem_rbs_collection
+
+.idea/
